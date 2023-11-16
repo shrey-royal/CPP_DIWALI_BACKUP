@@ -1,0 +1,3 @@
+->This is a sample file. \n->It contains some text. \n->The content is written in the backup lecture.
+
+->Appended Text
